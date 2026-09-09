@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Kevin (@kevinwhite1201)
 
-<!--
-**kevinwhite1201/kevinwhite1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in SF. Mostly hacking on low-level plumbing, systems utilities, and compilers.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Building lightweight runtimes and CLI tools in Rust and C
+- Porting native utilities to WebAssembly / WASI
+- Linux profiling with `perf` and debugging weird memory bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Drivers
+- **Languages:** Rust, C, POSIX Shell
+- **Environment:** Linux, Git, Neovim, Make
+- **Tech:** WebAssembly, Tokio, standard POSIX APIs
+
+#### Reach Out
+- Open an issue/PR on any repo if you want to collaborate or spot bad unsafe code.
+- Email: kevinwhite1201.dev@gmail.com
